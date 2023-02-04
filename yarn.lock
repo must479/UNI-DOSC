@@ -3146,11 +3146,6 @@
     "@typescript-eslint/types" "5.42.1"
     eslint-visitor-keys "^3.3.0"
 
-"@uniswap/analytics-events@1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@uniswap/analytics-events/-/analytics-events-1.1.1.tgz#7514f45ec4936fb44f94c691b977ba3f741a54b3"
-  integrity sha512-B8cIbBdpqv3do4mO+/bu6WGsIuTuQqjtYDGZthhCrmdiN3ImE8HVGXKzVV3t9CyG1vPssxCtRSeSgyPVOm/4vA==
-
 "@uniswap/analytics-events@file:uniswap-analytics-events-dev.tgz":
   version "0.0.1"
   resolved "file:uniswap-analytics-events-dev.tgz#f31e3c493705627344a5e6e14c43f25e361d5123"
@@ -6092,9 +6087,9 @@ htmlparser2@^6.1.0:
     entities "^2.0.0"
 
 http-cache-semantics@^4.0.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/http-cache-semantics/-/http-cache-semantics-4.1.0.tgz#49e91c5cbf36c9b94bcfcd71c23d5249ec74e390"
-  integrity sha512-carPklcUh7ROWRK7Cv27RPtdhYhUsela/ue5/jKzjegVvXDqM2ILE9Q2BGn9JZJh1g87cp56su/FgQSzcWS8cQ==
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/http-cache-semantics/-/http-cache-semantics-4.1.1.tgz#abe02fcb2985460bf0323be664436ec3476a6d5a"
+  integrity sha512-er295DKPVsV82j5kw1Gjt+ADA/XYHsajl82cGNQG2eyoPkvgUhX+nDIyelzhIWbbsXP39EHcI6l5tYs2FYqYXQ==
 
 http-deceiver@^1.2.7:
   version "1.2.7"
